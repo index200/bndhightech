@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Atlas Template
 
 Thank you for buying this template! We hope you can use it to make your next web project a success!
@@ -95,3 +96,6 @@ We debated a lot on what to use for our first templates since we wanted to start
 We also thought about using Vue but in practice we found it a bit verbose and a bit limiting because, since we wanted to keep everything in pure HTML, we couldn’t use Vue components.
 
 We opted to try Alpine.js and we think it’s like using the best of Vue, like its syntax and reactivity, without its baggage, like the virtual DOM, which would be overkill for a project like this.
+=======
+# bndhightech
+>>>>>>> 29ca2258f96d91b1a653587883857bda46d34bf8
